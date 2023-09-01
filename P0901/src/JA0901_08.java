@@ -61,14 +61,7 @@ public class JA0901_08 {
 		i = i / 1;
 		i /= 1;
 
-		String str1 = new String("abc");
-		String str2 = new String("abc");
-		if (str.equals(str2){
-			System.out.println("같다");
-		else
-			System.out.println("다르다");
 		
-		else if //조건문이 두개인 경우
 		
 
 	}
