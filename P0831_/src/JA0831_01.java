@@ -14,8 +14,5 @@ public class JA0831_01 {
 		System.out.println(total);
 		System.out.println(avg);
 
-		
-		
-		
 	}
 }

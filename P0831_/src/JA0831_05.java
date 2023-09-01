@@ -17,7 +17,7 @@ public class JA0831_05 {
 		System.out.println(num + num);// 7+8=15
 		System.out.println(str + num + num2);// ""+7+8="78"
 		System.out.println(num + num2 + str);// 7+8+""="15"
-		System.out.println("합계: " + (+num + num2));//가로르 치면 계산만 따로
+		System.out.println("합계: " + (+num + num2));// 가로르 치면 계산만 따로
 
 		String name = "손승민";
 		int kor = 98;
@@ -29,19 +29,13 @@ public class JA0831_05 {
 		// 영어점수: 99
 		// 수학점수: 100
 		// 합계: 297
-		System.out.println("이름: "+name);
-		System.out.println("국어점수: "+kor);
-		System.out.println("영어점수: "+eng);
-		System.out.println("수학점수: "+math);
-		System.out.println("총점: "+total);
+		System.out.println("이름: " + name);
+		System.out.println("국어점수: " + kor);
+		System.out.println("영어점수: " + eng);
+		System.out.println("수학점수: " + math);
+		System.out.println("총점: " + total);
 		System.out.println("합계: " + (kor + eng + math));
-		
-		
-		
-		
-		
-			
-		
+
 	}
 
 }

@@ -17,12 +17,7 @@ public class JA0831_02 {
 		System.out.println(str);
 		System.out.println(str2);
 
-		
-		final int MAX=100;//상수는 파이널 표시 (잘 사용하지는 않는다)
+		final int MAX = 100;// 상수는 파이널 표시 (잘 사용하지는 않는다)
 
-		
-		
-		
-		
 	}
 }
